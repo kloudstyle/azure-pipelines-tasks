@@ -29,7 +29,7 @@
             "aliases": [
                 "knownHostsEntry"
             ],
-            "type": "string",
+            "type": "multiLine",
             "label": "Known Hosts Entry",
             "defaultValue": "",
             "required": true,
