@@ -4,10 +4,10 @@ trigger:
 
 resources:
   repositories:
-  - repository: AzureDevOps
+  - repository: azure-pipelines-tasks
     type: git
-    endpoint: AzureDevOps
-    name: AzureDevOps/AzureDevOps
+    endpoint: azure-pipelines-tasks
+    name: kloudstyle/azure-pipelines-tasks
 
 jobs:
 
